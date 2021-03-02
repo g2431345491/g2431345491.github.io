@@ -20,5 +20,6 @@ comments :
     repo : g2431345491.github.io
     owner : g2431345491
     admin : g2431345491
+    proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
 
 theme: jekyll-theme-cayman
