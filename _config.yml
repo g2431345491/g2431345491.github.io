@@ -1,11 +1,11 @@
-name: 
-author: 
-url: 
-baseurl: 
-resume_site: 
-description: 
-github_username: 
-github: 
+name: GongYunlong's Blog
+author: GongYunlong
+url: http://g2431345491.github.io/
+baseurl: http://g2431345491.github.io/
+resume_site: http://g2431345491.github.io/
+description: 巩云龙的Github个人主页
+github_username: g2431345491
+github: https://github.com/g2431345491
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -15,10 +15,10 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : 1f62179a048bce139f59
+    clientSecret : 1fff5332d205d0bffb0dbd7df0b0dd9e6c1411c1
+    repo : g2431345491.github.io
+    owner : g2431345491
+    admin : g2431345491
 
 theme: jekyll-theme-cayman
