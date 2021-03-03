@@ -21,3 +21,5 @@ comments :
     owner : g2431345491
     admin : g2431345491
     proxy: https://shielded-brushlands-08810.herokuapp.com/https://github.com/login/oauth/access_token
+
+theme: jekyll-theme-cayman
